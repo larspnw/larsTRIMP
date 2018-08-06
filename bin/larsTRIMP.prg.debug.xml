@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPApp.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="23" pc="268435531" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="24" pc="268435535" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="25" pc="268435553" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="28" pc="268435566" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="29" pc="268435583" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="30" pc="268435600" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="31" pc="268435615" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="32" pc="268435622" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="35" pc="268435648" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="36" pc="268435664" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="37" pc="268435680" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="38" pc="268435696" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="39" pc="268435712" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="41" pc="268435728" symbol="initialize"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="48" pc="268435815" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="53" pc="268435819" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="54" pc="268435832" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="56" pc="268435837" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="57" pc="268435847" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="59" pc="268435854" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="60" pc="268435868" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="61" pc="268435881" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="62" pc="268435895" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="63" pc="268435908" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="64" pc="268435922" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="65" pc="268435935" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="66" pc="268435949" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="67" pc="268435962" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="68" pc="268435976" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="73" pc="268435989" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="75" pc="268436010" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="76" pc="268436026" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="77" pc="268436033" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="78" pc="268436044" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="81" pc="268436060" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="82" pc="268436095" symbol="compute"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="85" pc="268436099" symbol="calcTrimp"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="87" pc="268436103" symbol="calcTrimp"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="89" pc="268436119" symbol="calcTrimp"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="92" pc="268436129" symbol="formatStr"/>
+<entry filename="/home/lars/eclipse-workspace/larsTRIMP/./source/larsTRIMPView.mc" lineNum="93" pc="268436133" symbol="formatStr"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="19" symbol="HRZONE5"/>
+<entry field="true" id="18" symbol="HRZONE4"/>
+<entry field="true" id="17" symbol="HRZONE3"/>
+<entry field="true" id="16" symbol="HRZONE2"/>
+<entry field="true" id="15" symbol="HRZONE1"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="28" method="true" symbol="formatStr"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="25" symbol="callCount"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="10" object="true" symbol="larsTRIMPView"/>
+<entry id="27" method="true" symbol="calcTrimp"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="24" symbol="impact5"/>
+<entry field="true" id="23" symbol="impact4"/>
+<entry field="true" id="22" symbol="impact3"/>
+<entry field="true" id="21" symbol="impact2"/>
+<entry field="true" id="20" symbol="impact1"/>
+<entry id="9" object="true" symbol="larsTRIMPApp"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="26" symbol="trimpTotal"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435814" name="profile" stackId="1" startPc="268435535"/>
+<entry endPc="268435814" name="HRZones" stackId="3" startPc="268435535"/>
+<entry endPc="268435814" name="sport" stackId="2" startPc="268435535"/>
+<entry endPc="268436098" name="elapsed" stackId="5" startPc="268435819"/>
+<entry endPc="268436098" name="trimpPerHr" stackId="6" startPc="268435819"/>
+<entry endPc="268436098" name="returnStr" stackId="7" startPc="268435819"/>
+<entry endPc="268436098" name="hr" stackId="2" startPc="268435819"/>
+<entry endPc="268436098" name="impact" stackId="3" startPc="268435819"/>
+<entry endPc="268436098" name="trimpTot" stackId="4" startPc="268435819"/>
+<entry endPc="268436099" name="info" stackId="1" startPc="268435815"/>
+<entry endPc="268436129" name="imp" stackId="1" startPc="268436099"/>
+<entry endPc="268436151" name="s" stackId="1" startPc="268436129"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="larsTRIMPApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="larsTRIMPApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="larsTRIMPApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="larsTRIMPApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="larsTRIMPView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="larsTRIMPView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calcTrimp" parent="larsTRIMPView">
+<param id="imp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="formatStr" parent="larsTRIMPView">
+<param id="s"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="447" parentId="globals" symbolId="larsTRIMPApp" type="class"/>
+<dataEntry offset="518" parentId="globals" symbolId="larsTRIMPView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
